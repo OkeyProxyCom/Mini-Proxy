@@ -72,7 +72,9 @@ PS: If you’re a skilled user, you can choose a Mini Proxy Github code to add t
 Aside from Mini Proxy, there are multiple proxy servers available on the Internet. Therefore, we researched and found a list of proxy servers that are alternatives to this program. If you are unable to access the Mini Proxy website due to any issues, you can use any of these programs. If you’re choosing a more comprehensive proxy solution, you can consider them.
 
 OkeyProxy, top 5 Socks5 Proxies Provider, you can get a 1GB test proxy trial from OkeyProxy now, you can also consult about residential proxy unlimited bandwidth with the support team. https://www.okeyproxy.com/en/residential-proxies
+
 Tiny Proxy
+
 Acrylic DNS Proxy
 
 # Final Thoughts
